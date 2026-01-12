@@ -42,13 +42,6 @@ fastapi-streamlit-rag-chatbot/
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/fastapi-streamlit-rag-chatbot.git
-cd fastapi-streamlit-rag-chatbot
-```
-
 ### 2️⃣ Install Dependencies
 
 
